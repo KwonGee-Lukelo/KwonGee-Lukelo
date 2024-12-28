@@ -1,4 +1,4 @@
-# Bonjour, je suis KwonGee-Lukelo ! 👋
+# Bonjour, je suis Kwon Gee Lukelo ! 👋
 
 Développeur calme et réfléchi, abordant la vie et le code avec sérénité. Ma tranquillité d’esprit ne doit pas être confondue avec de la timidité : je suis capable de m’exprimer clairement et de prendre ma place dans des projets collaboratifs.
 
