@@ -27,8 +27,8 @@ Voici quelques projets sur lesquels j'ai travaillé :
 
 ## Me contacter
 
-- [LinkedIn](https://www.linkedin.com/in/votre-profil/)
-- [Twitter](https://twitter.com/votre-profil)
+- [LinkedIn](https://www.linkedin.com/in/prosper-kwon-gee-59932b29a)
+  
 - [Site personnel](https://votresite.com)
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet. 😊
