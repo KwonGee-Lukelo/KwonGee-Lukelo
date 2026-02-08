@@ -1,35 +1,24 @@
-# Bonjour, je suis Kwon Gee Lukelo ! 👋
+# 💫 About Me:
+Développeur calme et réfléchi, abordant la vie et le code avec sérénité. Ma tranquillité d'esprit ne doit pas être confondue avec de la timidité : je suis capable de m'exprimer clairement et de prendre ma place dans des projets collaboratifs.<br><br>Ma détermination et ma persévérance sont mes moteurs. Je fais face aux défis avec une volonté de persister jusqu'à atteindre mes objectifs, tout en cherchant à améliorer continuellement mes compétences techniques.<br><br>Passionné par le développement web et l'apprentissage des technologies modernes, je m'efforce de combiner mes compétences techniques avec mes valeurs humaines pour contribuer positivement aux projets open-source et à la communauté.
 
-Développeur calme et réfléchi, abordant la vie et le code avec sérénité. Ma tranquillité d’esprit ne doit pas être confondue avec de la timidité : je suis capable de m’exprimer clairement et de prendre ma place dans des projets collaboratifs.
 
-Ma détermination et ma persévérance sont mes moteurs. Je fais face aux défis avec une volonté de persister jusqu’à atteindre mes objectifs, tout en cherchant à améliorer mes compétences techniques continuellement.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prosper-kwon-gee-59932b29a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkwongee@gmail.com) 
 
-Passionné par le développement web et l’apprentissage des technologies modernes, je m’efforce de combiner mes compétences techniques avec mes valeurs humaines pour contribuer positivement aux projets open-source et à la communauté.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KwonGee-Lukelo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KwonGee-Lukelo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonGee-Lukelo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Technologies que j’utilise :
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KwonGee-Lukelo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KwonGee-Lukelo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Projets
+---
+[![](https://visitcount.itsvg.in/api?id=KwonGee-Lukelo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Voici quelques projets sur lesquels j'ai travaillé :
-
-- [Projet 1](https://github.com/KwonGee-Lukelo/projet1) - Une brève description du Projet 1.
-- [Projet 2](https://github.com/KwonGee-Lukelo/projet2) - Une brève description du Projet 2.
-- [Projet 3](https://github.com/KwonGee-Lukelo/projet3) - Une brève description du Projet 3.
-
-## Statistiques GitHub
-
-![Statistiques GitHub de KwonGee-Lukelo](https://github-readme-stats.vercel.app/api?username=KwonGee-Lukelo&show_icons=true&theme=radical)
-
-## Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/prosper-kwon-gee-59932b29a)
-  
-- [Site personnel](https://votresite.com)
-
-Merci de visiter mon profil ! N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet. 😊
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
