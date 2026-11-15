@@ -1,6 +1,14 @@
-# 💫 About Me:
-Développeur calme et réfléchi, abordant la vie et le code avec sérénité. Ma tranquillité d'esprit ne doit pas être confondue avec de la timidité : je suis capable de m'exprimer clairement et de prendre ma place dans des projets collaboratifs.<br><br>Ma détermination et ma persévérance sont mes moteurs. Je fais face aux défis avec une volonté de persister jusqu'à atteindre mes objectifs, tout en cherchant à améliorer continuellement mes compétences techniques.<br><br>Passionné par le développement web et l'apprentissage des technologies modernes, je m'efforce de combiner mes compétences techniques avec mes valeurs humaines pour contribuer positivement aux projets open-source et à la communauté.
+# About Me
 
+Développeur web orienté Backend, passionné par la conception et le développement de solutions numériques répondant à des besoins concrets.
+
+J'aime comprendre les problèmes avant de les résoudre : analyser les besoins, concevoir des solutions structurées, développer des API et travailler avec les bases de données.
+
+De nature calme et réfléchie, je privilégie la rigueur, la persévérance et l'amélioration continue. J'accorde également une importance particulière à la collaboration, au partage des connaissances et à la qualité du travail réalisé.
+
+Actuellement, je renforce mes compétences en développement Fullstack, DevOps et Cloud Computing, avec l'ambition de maîtriser progressivement tout le cycle de vie d'un logiciel : de sa conception à son déploiement et son exploitation.
+
+**Mon approche : comprendre, concevoir, construire et faire évoluer.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prosper-kwon-gee-59932b29a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkwongee@gmail.com) 
